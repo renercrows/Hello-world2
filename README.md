@@ -9,9 +9,9 @@
 
 - HTML and CSS
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Maximiliano Ungredda**
 
 - GitHub: [@renercrows](https://github.com/renercrows)
 
